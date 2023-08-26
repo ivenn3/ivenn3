@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔫 I’m currently working on Los Santos War project,
+- 🔫 I’m currently working on some small projects,
 - 🌱 I’m currently learning Java and C#,
-- 💻 My discord - kubu977#7879,
+- 💻 My discord - kubu977,
 - That's all, bye! 👋
